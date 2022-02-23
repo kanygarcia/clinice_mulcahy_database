@@ -16,13 +16,13 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8 */;
 
 --
--- Database: 'CLINICEMULCAHY'
+-- Database: 'clinice_mulcahy_database'
 --
 
 -- --------------------------------------------------------
-CREATE DATABASE CLINICEMULCAHY;
--- DROP DATABASE CLINICEMULCAHY;
-use CLINICEMULCAHY;
+CREATE DATABASE clinice_mulcahy_database;
+-- DROP DATABASE clinice_mulcahy_database;
+use clinice_mulcahy_database;
 ---
 -- Table structure for table 'PATIENT'
 ---
